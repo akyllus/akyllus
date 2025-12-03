@@ -3,8 +3,7 @@
 <!-- EPIC ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=ABHISHEK%20SAINI&fontSize=100&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=FULL%20STACK%20ARCHITECT%20|%20CODE%20ALCHEMIST%20|%20DIGITAL%20INNOVATOR&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
 
-<!-- TYPING ANIMATION ULTIMATE -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=150&lines=%E2%9A%A1+SYSTEM+ONLINE+%E2%80%A2+DEPLOYING+INNOVATION+%F0%9F%9A%80;%F0%9F%A7%AC+MERN+ARCHITECT+%E2%80%A2+UI%2FUX+SORCERER+%F0%9F%8E%A8;%F0%9F%94%A5+10X+DEVELOPER+%E2%80%A2+PROBLEM+SOLVER+%F0%9F%92%BB;%E2%9C%A8+TURNING+IDEAS+INTO+REALITY+%E2%9C%A8" alt="Typing SVG" /></a>
+
 
 <br>
 
@@ -30,10 +29,7 @@
 
 <br>
 
-<!-- ULTIMATE BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&repeat=true&width=800&lines=%E2%9A%A0%EF%B8%8F+WARNING%3A+GENIUS+AT+WORK+%E2%9A%A0%EF%B8%8F;%F0%9F%94%A5+CODE+QUALITY%3A+LEGENDARY+%F0%9F%94%A5;%F0%9F%92%8E+BUILDING+THE+IMPOSSIBLE+%F0%9F%92%8E" alt="Warning" />
-</p>
+
 
 <br>
 
